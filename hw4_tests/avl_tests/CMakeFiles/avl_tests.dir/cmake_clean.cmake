@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/avl_tests.dir/test_insert.cpp.o"
   "CMakeFiles/avl_tests.dir/test_remove.cpp.o"
-  "avl_tests.pdb"
   "avl_tests"
+  "avl_tests.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

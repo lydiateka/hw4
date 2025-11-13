@@ -1,6 +1,6 @@
 # CMake generated Testfile for 
-# Source directory: /home/codio/workspace/hw4/hw4_tests
-# Build directory: /home/codio/workspace/hw4/hw4_tests
+# Source directory: /work/hw/hw4/hw4_tests
+# Build directory: /work/hw/hw4/hw4_tests
 # 
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.

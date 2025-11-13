@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/hw4_equalpaths.dir/home/codio/workspace/hw4/equal-paths.cpp.o"
-  "libhw4_equalpaths.pdb"
+  "CMakeFiles/hw4_equalpaths.dir/work/hw/hw4/equal-paths.cpp.o"
   "libhw4_equalpaths.a"
+  "libhw4_equalpaths.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -1,4 +1,4 @@
-# Install script for directory: /home/codio/workspace/hw4/hw4_tests/bst_tests
+# Install script for directory: /work/hw/hw4/hw4_tests/bst_tests
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

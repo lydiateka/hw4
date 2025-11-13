@@ -1,4 +1,4 @@
-# Install script for directory: /home/codio/workspace/hw4/hw4_tests/avl_tests
+# Install script for directory: /work/hw/hw4/hw4_tests/avl_tests
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
