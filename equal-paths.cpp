@@ -41,6 +41,5 @@ bool equalPaths(Node * root)
     int leafDepth = 0; 
     return checkDepth(root, 0, leafDepth); 
     
-    
 }
 
